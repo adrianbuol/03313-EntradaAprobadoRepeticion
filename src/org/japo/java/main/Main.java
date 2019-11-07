@@ -27,7 +27,7 @@ public class Main {
     public static final Locale LCL = new Locale("en", "EN");
     public static final Scanner SCN
             = new Scanner(System.in, "Windows-1252")
-                    .useLocale(LCL);
+                    .useLocale(LCL); 
 
     public static void main(String[] args) {
 //          Variable
